@@ -1,6 +1,7 @@
 ## Hi there 👋
 ### Greetings, I am Guy, a software developer. 
 ### Currently, I am pursuing a Bachelor's degree in Computer Science and am in my third year of studies.
+### I am presently seeking a challenging opportunity in the realm of programming.
 
 ##
 
